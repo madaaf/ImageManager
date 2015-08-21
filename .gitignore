@@ -1,5 +1,20 @@
+<<<<<<< HEAD
 .idea/
 *.iml
 *.class
 target/
 thumbnails/
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> ad02d84069b353c56984b7c4c0fb682e5147a360
